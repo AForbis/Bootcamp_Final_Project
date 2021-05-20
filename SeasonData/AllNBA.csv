@@ -1,1 +1,119 @@
-Season,Lg,Tm,C,F,F,G,G2019-20,NBA,1st,Anthony Davis C,Giannis Antetokounmpo F,LeBron James F,James Harden G,Luka Don?i? G2019-20,NBA,2nd,Nikola Joki? C,Kawhi Leonard F,Pascal Siakam F,Damian Lillard G,Chris Paul G2019-20,NBA,3rd,Rudy Gobert C,Jayson Tatum F,Jimmy Butler F,Ben Simmons G,Russell Westbrook G2018-19,NBA,1st,Nikola Joki? C,Giannis Antetokounmpo F,Paul George F,James Harden G,Stephen Curry G2018-19,NBA,2nd,Joel Embiid C,Kevin Durant F,Kawhi Leonard F,Damian Lillard G,Kyrie Irving G2018-19,NBA,3rd,Rudy Gobert C,LeBron James F,Blake Griffin F,Kemba Walker G,Russell Westbrook G2017-18,NBA,1st,Anthony Davis C,LeBron James F,Kevin Durant F,Damian Lillard G,James Harden G2017-18,NBA,2nd,Joel Embiid C,Giannis Antetokounmpo F,LaMarcus Aldridge F,Russell Westbrook G,DeMar DeRozan G2017-18,NBA,3rd,Karl-Anthony Towns C,Jimmy Butler F,Paul George F,Stephen Curry G,Victor Oladipo G2016-17,NBA,1st,Anthony Davis C,LeBron James F,Kawhi Leonard F,James Harden G,Russell Westbrook G2016-17,NBA,2nd,Rudy Gobert C,Giannis Antetokounmpo F,Kevin Durant F,Stephen Curry G,Isaiah Thomas G2016-17,NBA,3rd,DeAndre Jordan C,Draymond Green F,Jimmy Butler F,John Wall G,DeMar DeRozan G2015-16,NBA,1st,DeAndre Jordan C,LeBron James F,Kawhi Leonard F,Stephen Curry G,Russell Westbrook G2015-16,NBA,2nd,DeMarcus Cousins C,Kevin Durant F,Draymond Green F,Chris Paul G,Damian Lillard G2015-16,NBA,3rd,Andre Drummond C,Paul George F,LaMarcus Aldridge F,Klay Thompson G,Kyle Lowry G2014-15,NBA,1st,Marc Gasol C,LeBron James F,Anthony Davis F,Stephen Curry G,James Harden G2014-15,NBA,2nd,DeMarcus Cousins C,Pau Gasol C,LaMarcus Aldridge F,Russell Westbrook G,Chris Paul G2014-15,NBA,3rd,DeAndre Jordan C,Blake Griffin F,Tim Duncan F,Klay Thompson G,Kyrie Irving G2013-14,NBA,1st,Joakim Noah C,Kevin Durant F,LeBron James F,James Harden G,Chris Paul G2013-14,NBA,2nd,Dwight Howard C,Blake Griffin F,Kevin Love F,Stephen Curry G,Tony Parker G2013-14,NBA,3rd,Al Jefferson C,Paul George F,LaMarcus Aldridge F,Goran Dragi? G,Damian Lillard G2012-13,NBA,1st,Tim Duncan C,Kevin Durant F,LeBron James F,Kobe Bryant G,Chris Paul G2012-13,NBA,2nd,Marc Gasol C,Carmelo Anthony F,Blake Griffin F,Tony Parker G,Russell Westbrook G2012-13,NBA,3rd,Dwight Howard C,Paul George F,David Lee F,James Harden G,Dwyane Wade G2011-12,NBA,1st,Dwight Howard C,Kevin Durant F,LeBron James F,Kobe Bryant G,Chris Paul G2011-12,NBA,2nd,Andrew Bynum C,Blake Griffin F,Kevin Love F,Tony Parker G,Russell Westbrook G2011-12,NBA,3rd,Tyson Chandler C,Carmelo Anthony F,Dirk Nowitzki F,Rajon Rondo G,Dwyane Wade G2010-11,NBA,1st,Dwight Howard C,Kevin Durant F,LeBron James F,Kobe Bryant G,Derrick Rose G2010-11,NBA,2nd,Amar'e Stoudemire C,Pau Gasol F,Dirk Nowitzki F,Dwyane Wade G,Russell Westbrook G2010-11,NBA,3rd,Al Horford C,LaMarcus Aldridge F,Zach Randolph F,Manu Ginóbili G,Chris Paul G2009-10,NBA,1st,Dwight Howard C,Kevin Durant F,LeBron James F,Kobe Bryant G,Dwyane Wade G2009-10,NBA,2nd,Amar'e Stoudemire C,Carmelo Anthony F,Dirk Nowitzki F,Steve Nash G,Deron Williams G2009-10,NBA,3rd,Andrew Bogut C,Tim Duncan F,Pau Gasol F,Joe Johnson G,Brandon Roy G2008-09,NBA,1st,Dwight Howard C,LeBron James F,Dirk Nowitzki F,Kobe Bryant G,Dwyane Wade G2008-09,NBA,2nd,Yao Ming C,Tim Duncan F,Paul Pierce F,Chris Paul G,Brandon Roy G2008-09,NBA,3rd,Shaquille O'Neal C,Carmelo Anthony F,Pau Gasol F,Chauncey Billups G,Tony Parker G2007-08,NBA,1st,Dwight Howard C,Kevin Garnett F,LeBron James F,Kobe Bryant G,Chris Paul G2007-08,NBA,2nd,Amar'e Stoudemire C,Tim Duncan F,Dirk Nowitzki F,Steve Nash G,Deron Williams G2007-08,NBA,3rd,Yao Ming C,Carlos Boozer F,Paul Pierce F,Manu Ginóbili G,Tracy McGrady G2006-07,NBA,1st,Amar'e Stoudemire C,Tim Duncan F,Dirk Nowitzki F,Kobe Bryant G,Steve Nash G2006-07,NBA,2nd,Yao Ming C,Chris Bosh F,LeBron James F,Gilbert Arenas G,Tracy McGrady G2006-07,NBA,3rd,Dwight Howard C,Carmelo Anthony F,Kevin Garnett F,Chauncey Billups G,Dwyane Wade G2005-06,NBA,1st,Shaquille O'Neal C,LeBron James F,Dirk Nowitzki F,Kobe Bryant G,Steve Nash G2005-06,NBA,2nd,Ben Wallace C,Elton Brand F,Tim Duncan F,Chauncey Billups G,Dwyane Wade G2005-06,NBA,3rd,Yao Ming C,Carmelo Anthony F,Shawn Marion F,Gilbert Arenas G,Allen Iverson G2004-05,NBA,1st,Shaquille O'Neal C,Tim Duncan F,Dirk Nowitzki F,Allen Iverson G,Steve Nash G2004-05,NBA,2nd,Amar'e Stoudemire C,Kevin Garnett F,LeBron James F,Ray Allen G,Dwyane Wade G2004-05,NBA,3rd,Ben Wallace C,Shawn Marion F,Tracy McGrady F,Gilbert Arenas G,Kobe Bryant G2003-04,NBA,1st,Shaquille O'Neal C,Tim Duncan F,Kevin Garnett F,Kobe Bryant G,Jason Kidd G2003-04,NBA,2nd,Ben Wallace C,Jermaine O'Neal F,Peja Stojakovi? F,Sam Cassell G,Tracy McGrady G2003-04,NBA,3rd,Yao Ming C,Metta World Peace F,Dirk Nowitzki F,Baron Davis G,Michael Redd G2002-03,NBA,1st,Shaquille O'Neal C,Tim Duncan F,Kevin Garnett F,Kobe Bryant G,Tracy McGrady G2002-03,NBA,2nd,Ben Wallace C,Dirk Nowitzki F,Chris Webber F,Allen Iverson G,Jason Kidd G2002-03,NBA,3rd,Jermaine O'Neal C,Jamal Mashburn F,Paul Pierce F,Stephon Marbury G,Steve Nash G2001-02,NBA,1st,Shaquille O'Neal C,Tim Duncan F,Tracy McGrady F,Kobe Bryant G,Jason Kidd G2001-02,NBA,2nd,Dirk Nowitzki C,Kevin Garnett F,Chris Webber F,Allen Iverson G,Gary Payton G2001-02,NBA,3rd,Dikembe Mutombo C,Jermaine O'Neal F,Ben Wallace F,Steve Nash G,Paul Pierce G2000-01,NBA,1st,Shaquille O'Neal C,Tim Duncan F,Chris Webber F,Allen Iverson G,Jason Kidd G2000-01,NBA,2nd,Dikembe Mutombo C,Vince Carter F,Kevin Garnett F,Kobe Bryant G,Tracy McGrady G2000-01,NBA,3rd,David Robinson C,Karl Malone F,Dirk Nowitzki F,Ray Allen G,Gary Payton G1999-00,NBA,1st,Shaquille O'Neal C,Tim Duncan F,Kevin Garnett F,Jason Kidd G,Gary Payton G1999-00,NBA,2nd,Alonzo Mourning C,Grant Hill F,Karl Malone F,Kobe Bryant G,Allen Iverson G1999-00,NBA,3rd,David Robinson C,Vince Carter F,Chris Webber F,Eddie Jones G,Stephon Marbury G1998-99,NBA,1st,Alonzo Mourning C,Tim Duncan F,Karl Malone F,Allen Iverson G,Jason Kidd G1998-99,NBA,2nd,Shaquille O'Neal C,Grant Hill F,Chris Webber F,Tim Hardaway G,Gary Payton G1998-99,NBA,3rd,Hakeem Olajuwon C,Kevin Garnett F,Antonio McDyess F,Kobe Bryant G,John Stockton G1997-98,NBA,1st,Shaquille O'Neal C,Tim Duncan F,Karl Malone F,Michael Jordan G,Gary Payton G1997-98,NBA,2nd,David Robinson C,Vin Baker F,Grant Hill F,Tim Hardaway G,Rod Strickland G1997-98,NBA,3rd,Dikembe Mutombo C,Scottie Pippen F,Glen Rice F,Reggie Miller G,Mitch Richmond G1996-97,NBA,1st,Hakeem Olajuwon C,Grant Hill F,Karl Malone F,Tim Hardaway G,Michael Jordan G1996-97,NBA,2nd,Patrick Ewing C,Scottie Pippen F,Glen Rice F,Gary Payton G,Mitch Richmond G1996-97,NBA,3rd,Shaquille O'Neal C,Vin Baker F,Anthony Mason F,Anfernee Hardaway G,John Stockton G1995-96,NBA,1st,David Robinson C,Karl Malone F,Scottie Pippen F,Anfernee Hardaway G,Michael Jordan G1995-96,NBA,2nd,Hakeem Olajuwon C,Grant Hill F,Shawn Kemp F,Gary Payton G,John Stockton G1995-96,NBA,3rd,Shaquille O'Neal C,Charles Barkley F,Juwan Howard F,Reggie Miller G,Mitch Richmond G1994-95,NBA,1st,David Robinson C,Karl Malone F,Scottie Pippen F,Anfernee Hardaway G,John Stockton G1994-95,NBA,2nd,Shaquille O'Neal C,Charles Barkley F,Shawn Kemp F,Gary Payton G,Mitch Richmond G1994-95,NBA,3rd,Hakeem Olajuwon C,Dennis Rodman F,Detlef Schrempf F,Clyde Drexler G,Reggie Miller G1993-94,NBA,1st,Hakeem Olajuwon C,Karl Malone F,Scottie Pippen F,Latrell Sprewell G,John Stockton G1993-94,NBA,2nd,David Robinson C,Charles Barkley F,Shawn Kemp F,Kevin Johnson G,Mitch Richmond G1993-94,NBA,3rd,Shaquille O'Neal C,Derrick Coleman F,Dominique Wilkins F,Gary Payton G,Mark Price G1992-93,NBA,1st,Hakeem Olajuwon C,Charles Barkley F,Karl Malone F,Michael Jordan G,Mark Price G1992-93,NBA,2nd,Patrick Ewing C,Larry Johnson F,Dominique Wilkins F,Joe Dumars G,John Stockton G1992-93,NBA,3rd,David Robinson C,Derrick Coleman F,Scottie Pippen F,Tim Hardaway G,Dra?en Petrovi? G1991-92,NBA,1st,David Robinson C,Karl Malone F,Chris Mullin F,Clyde Drexler G,Michael Jordan G1991-92,NBA,2nd,Patrick Ewing C,Charles Barkley F,Scottie Pippen F,Tim Hardaway G,John Stockton G1991-92,NBA,3rd,Brad Daugherty C,Dennis Rodman F,Kevin Willis F,Kevin Johnson G,Mark Price G1990-91,NBA,1st,David Robinson C,Charles Barkley F,Karl Malone F,Magic Johnson G,Michael Jordan G1990-91,NBA,2nd,Patrick Ewing C,Chris Mullin F,Dominique Wilkins F,Clyde Drexler G,Kevin Johnson G1990-91,NBA,3rd,Hakeem Olajuwon C,Bernard King F,James Worthy F,Joe Dumars G,John Stockton G1989-90,NBA,1st,Patrick Ewing C,Charles Barkley F,Karl Malone F,Magic Johnson G,Michael Jordan G1989-90,NBA,2nd,Hakeem Olajuwon C,Larry Bird F,Tom Chambers F,Kevin Johnson G,John Stockton G1989-90,NBA,3rd,David Robinson C,Chris Mullin F,James Worthy F,Clyde Drexler G,Joe Dumars G1988-89,NBA,1st,Hakeem Olajuwon C,Charles Barkley F,Karl Malone F,Magic Johnson G,Michael Jordan G1988-89,NBA,2nd,Patrick Ewing C,Tom Chambers F,Chris Mullin F,Kevin Johnson G,John Stockton G1988-89,NBA,3rd,Robert Parish C,Terry Cummings F,Dominique Wilkins F,Dale Ellis G,Mark Price G1987-88,NBA,1st,Hakeem Olajuwon C,Charles Barkley F,Larry Bird F,Magic Johnson G,Michael Jordan G1987-88,NBA,2nd,Patrick Ewing C,Karl Malone F,Dominique Wilkins F,Clyde Drexler G,John Stockton G1986-87,NBA,1st,Hakeem Olajuwon C,Larry Bird F,Kevin McHale F,Magic Johnson G,Michael Jordan G1986-87,NBA,2nd,Moses Malone C,Charles Barkley F,Dominique Wilkins F,Fat Lever G,Isiah Thomas G1985-86,NBA,1st,Kareem Abdul-Jabbar C,Larry Bird F,Dominique Wilkins F,Magic Johnson G,Isiah Thomas G1985-86,NBA,2nd,Hakeem Olajuwon C,Charles Barkley F,Alex English F,Sidney Moncrief G,Alvin Robertson G1984-85,NBA,1st,Moses Malone C,Larry Bird F,Bernard King F,Magic Johnson G,Isiah Thomas G1984-85,NBA,2nd,Kareem Abdul-Jabbar C,Terry Cummings F,Ralph Sampson F,Michael Jordan G,Sidney Moncrief G1983-84,NBA,1st,Kareem Abdul-Jabbar C,Larry Bird F,Bernard King F,Magic Johnson G,Isiah Thomas G1983-84,NBA,2nd,Moses Malone C,Adrian Dantley F,Julius Erving F,Sidney Moncrief G,Jim Paxson G1982-83,NBA,1st,Moses Malone C,Larry Bird F,Julius Erving F,Magic Johnson G,Sidney Moncrief G1982-83,NBA,2nd,Kareem Abdul-Jabbar C,Alex English F,Buck Williams F,George Gervin G,Isiah Thomas G1981-82,NBA,1st,Moses Malone C,Larry Bird F,Julius Erving F,George Gervin G,Gus Williams G1981-82,NBA,2nd,Robert Parish C,Alex English F,Bernard King F,Magic Johnson G,Sidney Moncrief G1980-81,NBA,1st,Kareem Abdul-Jabbar C,Larry Bird F,Julius Erving F,George Gervin G,Dennis Johnson G1980-81,NBA,2nd,Moses Malone C,Adrian Dantley F,Marques Johnson F,Tiny Archibald G,Otis Birdsong G1979-80,NBA,1st,Kareem Abdul-Jabbar C,Larry Bird F,Julius Erving F,George Gervin G,Paul Westphal G1979-80,NBA,2nd,Moses Malone C,Marques Johnson F,Dan Roundfield F,Dennis Johnson G,Gus Williams G1978-79,NBA,1st,Moses Malone C,Elvin Hayes F,Marques Johnson F,George Gervin G,Paul Westphal G1978-79,NBA,2nd,Kareem Abdul-Jabbar C,Bob Dandridge F,Walter Davis F,Phil Ford G,World B. Free G1977-78,NBA,1st,Bill Walton C,Julius Erving F,Truck Robinson F,George Gervin G,David Thompson G1977-78,NBA,2nd,Kareem Abdul-Jabbar C,Walter Davis F,Maurice Lucas F,Pete Maravich G,Paul Westphal G
+Season,Lg,Tm,C,F,F,G,G
+2019-20,NBA,1st,Anthony Davis,Giannis Antetokounmpo,LeBron James,James Harden,Luka Don?i?
+2019-20,NBA,2nd,Nikola Joki?,Kawhi Leonard,Pascal Siakam,Damian Lillard,Chris Paul
+2019-20,NBA,3rd,Rudy Gobert,Jayson Tatum,Jimmy Butler,Ben Simmons,Russell Westbrook
+2018-19,NBA,1st,Nikola Joki?,Giannis Antetokounmpo,Paul George,James Harden,Stephen Curry
+2018-19,NBA,2nd,Joel Embiid,Kevin Durant,Kawhi Leonard,Damian Lillard,Kyrie Irving
+2018-19,NBA,3rd,Rudy Gobert,LeBron James,Blake Griffin,Kemba Walker,Russell Westbrook
+2017-18,NBA,1st,Anthony Davis,LeBron James,Kevin Durant,Damian Lillard,James Harden
+2017-18,NBA,2nd,Joel Embiid,Giannis Antetokounmpo,LaMarcus Aldridge,Russell Westbrook,DeMar DeRozan
+2017-18,NBA,3rd,Karl-Anthony Towns,Jimmy Butler,Paul George,Stephen Curry,Victor Oladipo
+2016-17,NBA,1st,Anthony Davis,LeBron James,Kawhi Leonard,James Harden,Russell Westbrook
+2016-17,NBA,2nd,Rudy Gobert,Giannis Antetokounmpo,Kevin Durant,Stephen Curry,Isaiah Thomas
+2016-17,NBA,3rd,DeAndre Jordan,Draymond Green,Jimmy Butler,John Wall,DeMar DeRozan
+2015-16,NBA,1st,DeAndre Jordan,LeBron James,Kawhi Leonard,Stephen Curry,Russell Westbrook
+2015-16,NBA,2nd,DeMarcus Cousins,Kevin Durant,Draymond Green,Chris Paul,Damian Lillard
+2015-16,NBA,3rd,Andre Drummond,Paul George,LaMarcus Aldridge,Klay Thompson,Kyle Lowry
+2014-15,NBA,1st,Marc Gasol,LeBron James,Anthony Davis,Stephen Curry,James Harden
+2014-15,NBA,2nd,DeMarcus Cousins,Pau Gasol,LaMarcus Aldridge,Russell Westbrook,Chris Paul
+2014-15,NBA,3rd,DeAndre Jordan,Blake Griffin,Tim Duncan,Klay Thompson,Kyrie Irving
+2013-14,NBA,1st,Joakim Noah,Kevin Durant,LeBron James,James Harden,Chris Paul
+2013-14,NBA,2nd,Dwight Howard,Blake Griffin,Kevin Love,Stephen Curry,Tony Parker
+2013-14,NBA,3rd,Al Jefferson,Paul George,LaMarcus Aldridge,Goran Dragi?,Damian Lillard
+2012-13,NBA,1st,Tim Duncan,Kevin Durant,LeBron James,Kobe Bryant,Chris Paul
+2012-13,NBA,2nd,Marc Gasol,Carmelo Anthony,Blake Griffin,Tony Parker,Russell Westbrook
+2012-13,NBA,3rd,Dwight Howard,Paul George,David Lee,James Harden,Dwyane Wade
+2011-12,NBA,1st,Dwight Howard,Kevin Durant,LeBron James,Kobe Bryant,Chris Paul
+2011-12,NBA,2nd,Andrew Bynum,Blake Griffin,Kevin Love,Tony Parker,Russell Westbrook
+2011-12,NBA,3rd,Tyson Chandler,Carmelo Anthony,Dirk Nowitzki,Rajon Rondo,Dwyane Wade
+2010-11,NBA,1st,Dwight Howard,Kevin Durant,LeBron James,Kobe Bryant,Derrick Rose
+2010-11,NBA,2nd,Amar'e Stoudemire,Pau Gasol,Dirk Nowitzki,Dwyane Wade,Russell Westbrook
+2010-11,NBA,3rd,Al Horford,LaMarcus Aldridge,Zach Randolph,Manu Ginóbili,Chris Paul
+2009-10,NBA,1st,Dwight Howard,Kevin Durant,LeBron James,Kobe Bryant,Dwyane Wade
+2009-10,NBA,2nd,Amar'e Stoudemire,Carmelo Anthony,Dirk Nowitzki,Steve Nash,Deron Williams
+2009-10,NBA,3rd,Andrew Bogut,Tim Duncan,Pau Gasol,Joe Johnson,Brandon Roy
+2008-09,NBA,1st,Dwight Howard,LeBron James,Dirk Nowitzki,Kobe Bryant,Dwyane Wade
+2008-09,NBA,2nd,Yao Ming,Tim Duncan,Paul Pierce,Chris Paul,Brandon Roy
+2008-09,NBA,3rd,Shaquille O'Neal,Carmelo Anthony,Pau Gasol,Chauncey Billups,Tony Parker
+2007-08,NBA,1st,Dwight Howard,Kevin Garnett,LeBron James,Kobe Bryant,Chris Paul
+2007-08,NBA,2nd,Amar'e Stoudemire,Tim Duncan,Dirk Nowitzki,Steve Nash,Deron Williams
+2007-08,NBA,3rd,Yao Ming,Carlos Boozer,Paul Pierce,Manu Ginóbili,Tracy McGrady
+2006-07,NBA,1st,Amar'e Stoudemire,Tim Duncan,Dirk Nowitzki,Kobe Bryant,Steve Nash
+2006-07,NBA,2nd,Yao Ming,Chris Bosh,LeBron James,Gilbert Arenas,Tracy McGrady
+2006-07,NBA,3rd,Dwight Howard,Carmelo Anthony,Kevin Garnett,Chauncey Billups,Dwyane Wade
+2005-06,NBA,1st,Shaquille O'Neal,LeBron James,Dirk Nowitzki,Kobe Bryant,Steve Nash
+2005-06,NBA,2nd,Ben Wallace,Elton Brand,Tim Duncan,Chauncey Billups,Dwyane Wade
+2005-06,NBA,3rd,Yao Ming,Carmelo Anthony,Shawn Marion,Gilbert Arenas,Allen Iverson
+2004-05,NBA,1st,Shaquille O'Neal,Tim Duncan,Dirk Nowitzki,Allen Iverson,Steve Nash
+2004-05,NBA,2nd,Amar'e Stoudemire,Kevin Garnett,LeBron James,Ray Allen,Dwyane Wade
+2004-05,NBA,3rd,Ben Wallace,Shawn Marion,Tracy McGrady,Gilbert Arenas,Kobe Bryant
+2003-04,NBA,1st,Shaquille O'Neal,Tim Duncan,Kevin Garnett,Kobe Bryant,Jason Kidd
+2003-04,NBA,2nd,Ben Wallace,Jermaine O'Neal,Peja Stojakovi?,Sam Cassell,Tracy McGrady
+2003-04,NBA,3rd,Yao Ming,Metta World Peace,Dirk Nowitzki,Baron Davis,Michael Redd
+2002-03,NBA,1st,Shaquille O'Neal,Tim Duncan,Kevin Garnett,Kobe Bryant,Tracy McGrady
+2002-03,NBA,2nd,Ben Wallace,Dirk Nowitzki,Chris Webber,Allen Iverson,Jason Kidd
+2002-03,NBA,3rd,Jermaine O'Neal,Jamal Mashburn,Paul Pierce,Stephon Marbury,Steve Nash
+2001-02,NBA,1st,Shaquille O'Neal,Tim Duncan,Tracy McGrady,Kobe Bryant,Jason Kidd
+2001-02,NBA,2nd,Dirk Nowitzki,Kevin Garnett,Chris Webber,Allen Iverson,Gary Payton
+2001-02,NBA,3rd,Dikembe Mutombo,Jermaine O'Neal,Ben Wallace,Steve Nash,Paul Pierce
+2000-01,NBA,1st,Shaquille O'Neal,Tim Duncan,Chris Webber,Allen Iverson,Jason Kidd
+2000-01,NBA,2nd,Dikembe Mutombo,Vince Carter,Kevin Garnett,Kobe Bryant,Tracy McGrady
+2000-01,NBA,3rd,David Robinson,Karl Malone,Dirk Nowitzki,Ray Allen,Gary Payton
+1999-00,NBA,1st,Shaquille O'Neal,Tim Duncan,Kevin Garnett,Jason Kidd,Gary Payton
+1999-00,NBA,2nd,Alonzo Mourning,Grant Hill,Karl Malone,Kobe Bryant,Allen Iverson
+1999-00,NBA,3rd,David Robinson,Vince Carter,Chris Webber,Eddie Jones,Stephon Marbury
+1998-99,NBA,1st,Alonzo Mourning,Tim Duncan,Karl Malone,Allen Iverson,Jason Kidd
+1998-99,NBA,2nd,Shaquille O'Neal,Grant Hill,Chris Webber,Tim Hardaway,Gary Payton
+1998-99,NBA,3rd,Hakeem Olajuwon,Kevin Garnett,Antonio McDyess,Kobe Bryant,John Stockton
+1997-98,NBA,1st,Shaquille O'Neal,Tim Duncan,Karl Malone,Michael Jordan,Gary Payton
+1997-98,NBA,2nd,David Robinson,Vin Baker,Grant Hill,Tim Hardaway,Rod Strickland
+1997-98,NBA,3rd,Dikembe Mutombo,Scottie Pippen,Glen Rice,Reggie Miller,Mitch Richmond
+1996-97,NBA,1st,Hakeem Olajuwon,Grant Hill,Karl Malone,Tim Hardaway,Michael Jordan
+1996-97,NBA,2nd,Patrick Ewing,Scottie Pippen,Glen Rice,Gary Payton,Mitch Richmond
+1996-97,NBA,3rd,Shaquille O'Neal,Vin Baker,Anthony Mason,Anfernee Hardaway,John Stockton
+1995-96,NBA,1st,David Robinson,Karl Malone,Scottie Pippen,Anfernee Hardaway,Michael Jordan
+1995-96,NBA,2nd,Hakeem Olajuwon,Grant Hill,Shawn Kemp,Gary Payton,John Stockton
+1995-96,NBA,3rd,Shaquille O'Neal,Charles Barkley,Juwan Howard,Reggie Miller,Mitch Richmond
+1994-95,NBA,1st,David Robinson,Karl Malone,Scottie Pippen,Anfernee Hardaway,John Stockton
+1994-95,NBA,2nd,Shaquille O'Neal,Charles Barkley,Shawn Kemp,Gary Payton,Mitch Richmond
+1994-95,NBA,3rd,Hakeem Olajuwon,Dennis Rodman,Detlef Schrempf,Clyde Drexler,Reggie Miller
+1993-94,NBA,1st,Hakeem Olajuwon,Karl Malone,Scottie Pippen,Latrell Sprewell,John Stockton
+1993-94,NBA,2nd,David Robinson,Charles Barkley,Shawn Kemp,Kevin Johnson,Mitch Richmond
+1993-94,NBA,3rd,Shaquille O'Neal,Derrick Coleman,Dominique Wilkins,Gary Payton,Mark Price
+1992-93,NBA,1st,Hakeem Olajuwon,Charles Barkley,Karl Malone,Michael Jordan,Mark Price
+1992-93,NBA,2nd,Patrick Ewing,Larry Johnson,Dominique Wilkins,Joe Dumars,John Stockton
+1992-93,NBA,3rd,David Robinson,Derrick Coleman,Scottie Pippen,Tim Hardaway,Dra?en Petrovi?
+1991-92,NBA,1st,David Robinson,Karl Malone,Chris Mullin,Clyde Drexler,Michael Jordan
+1991-92,NBA,2nd,Patrick Ewing,Charles Barkley,Scottie Pippen,Tim Hardaway,John Stockton
+1991-92,NBA,3rd,Brad Daugherty,Dennis Rodman,Kevin Willis,Kevin Johnson,Mark Price
+1990-91,NBA,1st,David Robinson,Charles Barkley,Karl Malone,Magic Johnson,Michael Jordan
+1990-91,NBA,2nd,Patrick Ewing,Chris Mullin,Dominique Wilkins,Clyde Drexler,Kevin Johnson
+1990-91,NBA,3rd,Hakeem Olajuwon,Bernard King,James Worthy,Joe Dumars,John Stockton
+1989-90,NBA,1st,Patrick Ewing,Charles Barkley,Karl Malone,Magic Johnson,Michael Jordan
+1989-90,NBA,2nd,Hakeem Olajuwon,Larry Bird,Tom Chambers,Kevin Johnson,John Stockton
+1989-90,NBA,3rd,David Robinson,Chris Mullin,James Worthy,Clyde Drexler,Joe Dumars
+1988-89,NBA,1st,Hakeem Olajuwon,Charles Barkley,Karl Malone,Magic Johnson,Michael Jordan
+1988-89,NBA,2nd,Patrick Ewing,Tom Chambers,Chris Mullin,Kevin Johnson,John Stockton
+1988-89,NBA,3rd,Robert Parish,Terry Cummings,Dominique Wilkins,Dale Ellis,Mark Price
+1987-88,NBA,1st,Hakeem Olajuwon,Charles Barkley,Larry Bird,Magic Johnson,Michael Jordan
+1987-88,NBA,2nd,Patrick Ewing,Karl Malone,Dominique Wilkins,Clyde Drexler,John Stockton
+1986-87,NBA,1st,Hakeem Olajuwon,Larry Bird,Kevin McHale,Magic Johnson,Michael Jordan
+1986-87,NBA,2nd,Moses Malone,Charles Barkley,Dominique Wilkins,Fat Lever,Isiah Thomas
+1985-86,NBA,1st,Kareem Abdul-Jabbar,Larry Bird,Dominique Wilkins,Magic Johnson,Isiah Thomas
+1985-86,NBA,2nd,Hakeem Olajuwon,Charles Barkley,Alex English,Sidney Moncrief,Alvin Robertson
+1984-85,NBA,1st,Moses Malone,Larry Bird,Bernard King,Magic Johnson,Isiah Thomas
+1984-85,NBA,2nd,Kareem Abdul-Jabbar,Terry Cummings,Ralph Sampson,Michael Jordan,Sidney Moncrief
+1983-84,NBA,1st,Kareem Abdul-Jabbar,Larry Bird,Bernard King,Magic Johnson,Isiah Thomas
+1983-84,NBA,2nd,Moses Malone,Adrian Dantley,Julius Erving,Sidney Moncrief,Jim Paxson
+1982-83,NBA,1st,Moses Malone,Larry Bird,Julius Erving,Magic Johnson,Sidney Moncrief
+1982-83,NBA,2nd,Kareem Abdul-Jabbar,Alex English,Buck Williams,George Gervin,Isiah Thomas
+1981-82,NBA,1st,Moses Malone,Larry Bird,Julius Erving,George Gervin,Gus Williams
+1981-82,NBA,2nd,Robert Parish,Alex English,Bernard King,Magic Johnson,Sidney Moncrief
+1980-81,NBA,1st,Kareem Abdul-Jabbar,Larry Bird,Julius Erving,George Gervin,Dennis Johnson
+1980-81,NBA,2nd,Moses Malone,Adrian Dantley,Marques Johnson,Tiny Archibald,Otis Birdsong
+1979-80,NBA,1st,Kareem Abdul-Jabbar,Larry Bird,Julius Erving,George Gervin,Paul Westphal
+1979-80,NBA,2nd,Moses Malone,Marques Johnson,Dan Roundfield,Dennis Johnson,Gus Williams
+1978-79,NBA,1st,Moses Malone,Elvin Hayes,Marques Johnson,George Gervin,Paul Westphal
+1978-79,NBA,2nd,Kareem Abdul-Jabbar,Bob Dandridge,Walter Davis,Phil Ford,World B. Free
+1977-78,NBA,1st,Bill Walton,Julius Erving,Truck Robinson,George Gervin,David Thompson
+1977-78,NBA,2nd,Kareem Abdul-Jabbar,Walter Davis,Maurice Lucas,Pete Maravich,Paul Westphal
