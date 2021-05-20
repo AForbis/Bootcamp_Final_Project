@@ -1,5 +1,8 @@
 # Bootcamp Final Project
-
+- Selected topic
+- Reason for selecting the topic
+- Description of the data source(s)
+- Questions they hope to answer with the data
 
 ## Data sources
 
