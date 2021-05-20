@@ -3,8 +3,8 @@
 
 ## Data sources
 
-- [NBA Players Kaggle dataset](https://www.kaggle.com/drgilermo/nba-players-stats)
-- [All-NBA dataset](https://www.basketball-reference.com/awards/all_league.html)
+- [NBA Players data from Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats)
+- [All-NBA data from Basketball Reference](https://www.basketball-reference.com/awards/all_league.html)
 
 
 ## Documenting data methods
