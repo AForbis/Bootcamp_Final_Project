@@ -6,10 +6,10 @@ __Reason for selecting the topic__: We selected this topic because we are avid s
   
 __Data sources__:
 
-- [Season_Stats.csv from Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats) This contains the ___ data.
-- [player_data.csv from Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats) This contains the ___ data.
-- [All-NBA data.csv from Basketball Reference](https://www.basketball-reference.com/awards/all_league.html) This contains the 1st, 2nd, and 3rd All-NBA team awards from 1946-2020.
-- [Players.csv from Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats): This contains the ___ data (e.g., height, weight, college).
+- [Season_Stats.csv from Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats) - This dataset contains the players' game statistics like points, rebounds, assists.
+- [All-NBA data.csv from Basketball Reference](https://www.basketball-reference.com/awards/all_league.html) - This dataset contains the 1st, 2nd, and 3rd All-NBA team awards from 1946-2020.
+- [player_data.csv from Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats) - This contains the ___ data.
+- [Players.csv from Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats) - This contains the ___ data (e.g., height, weight, college).
 
 
 __Questions we hope to answer with the data__: asdf 
