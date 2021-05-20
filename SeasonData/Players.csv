@@ -1,4 +1,4 @@
-,Player,height,weight,collage,born,birth_city,birth_state
+,Player,"height, cm","weight, kg",college,born,birth_city,birth_state
 0,Curly Armstrong,180,77,Indiana University,1918,,
 1,Cliff Barker,188,83,University of Kentucky,1921,Yorktown,Indiana
 2,Leo Barnhorst,193,86,University of Notre Dame,1924,,
