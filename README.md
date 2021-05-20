@@ -15,6 +15,10 @@ __Questions we hope to answer with the data__: asdf
 - [player_data from Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats)
 - [All-NBA data from Basketball Reference](https://www.basketball-reference.com/awards/all_league.html)
 
+## Communication Protocols
+
+- asdf
+- asdf
 
 ## Documenting data methods
 
