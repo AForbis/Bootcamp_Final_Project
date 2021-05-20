@@ -1,4 +1,4 @@
-# Bootcamp Final Project
+# All-NBA Team Machine Learning Model
 
 __Topic__: Can we use NBA player data to train a machine learning model to reliably predict whether or not a player will make an All-NBA team at the end of a season.
   
