@@ -27,8 +27,6 @@ __Team Communication Protocols__
 
 ## Machine Learning Model
 
-is used to predict discrete outcomes. For example. Let's say that we are interested in using a person's traits, such as age, sex, income, and geographic location, to predict how she or he will vote on a particular issue. The outcome, in this case, is whether the person will vote "Yes" or "No." The classification model's algorithms would attempt to learn patterns from the data, and if the model is successful, gain the ability to make accurate predictions for new voters
-
 - We chose a supervised machine learning model for classification. We chose this type of model because we wanted a model that would predict discrete outcomes. In this case, we wanted to take a player's end-of-season stats (e.g., points/rebounds/assists per game) and demographic data (e.g., age, height, weight, college) and predict whether the player will or will not make an All-NBA team. In other words, our classification model will try to learn patterns from our end-of-season stats and demographic data that, if successful, can make accurate predictions on if a player will win that award.
 - Below is our our provisional machine learning model that takes in the data from our provisional database and ouputs the labels for our input data. 
 
@@ -37,18 +35,18 @@ is used to predict discrete outcomes. For example. Let's say that we are interes
 
 ## Database
 
-- (From the module) This means you're using a SQL-based database, including an ERD of the database and a document pointing out how it is integrated into your database and how it works with the code. When you submit this database for your weekly grade, make sure you're submitting the data used for testing as well. Make sure to upload it to the repository along with the rest of the database-related work.
+- The following code demonstrates how our machine learning model is connected to our postgreSQL database.
 
+(insert code snippet from MLM file)
 
-- The ERD diagram below demonstrates how
+- The ERD diagram below demonstrates how our data is structured in our postgreSQL database.
 
 ![ERD diagram](nba-db-model.png)
 
 
 ## Dashboard
 
-- Not due in Segment One
-
+- TBD as this section is not due in segment #1.
 
 
 
