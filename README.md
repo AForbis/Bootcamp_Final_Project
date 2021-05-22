@@ -13,10 +13,11 @@ __Data sources__:
 __Questions we hope to answer with the data__: asdf 
 
 
-## Communication Protocols
+## Team Communication Protocols
 
-- asdf
-- asdf
+- Questions and updates are posted in the group Slack channel and all team members' phone numbers are available in case emergency communication is necessary.
+- Merge requests and comments automatically notify Github Master via email.
+- Meetings outside Monday and Wednesday class are coordinated in Slack channel and scheduled as needed.
 
 
 
