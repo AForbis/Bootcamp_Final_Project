@@ -28,8 +28,10 @@ __Team Communication Protocols__
 
 ## Database
 
-- The technologies employed were 
-- asdf
+- This means you're using a SQL-based database, including an ERD of the database and a document pointing out how it is integrated into your database and how it works with the code. 
+- When you submit this database for your weekly grade, make sure you're submitting the data used for testing as well. Make sure to upload it to the repository along with the rest of the database-related work.
+
+- The technologies employed were... 
 - sadfasdf
 - ERD diagram
 
@@ -37,9 +39,18 @@ __Team Communication Protocols__
 
 ## Machine Learning Model
 
-- The technologies employed were
+- The first segment is all about preparation, so a simple model will cover the first question—the type of machine learning model chosen and why. To get started, create a simple model that isn't concerned with accuracy. Basically, you want your model to take input data and return a label—and that's it!
 
-## Dashboard (Not due in Segment #1)
+- The technologies employed were..
+- We chose the XXXXXX model because...why...
+- We are training our model...in what ways...with what...
+- Our model's accuracy was....
+- Our model works by...
+
+
+## Dashboard
+
+- Not due in Segment One
 
 
 
