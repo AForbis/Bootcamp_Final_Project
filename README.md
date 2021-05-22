@@ -1,5 +1,7 @@
 # All-NBA Team Machine Learning Model
 
+## Project Overview
+
 __Topic__: Can we use NBA player data to train a machine learning model to reliably predict whether or not a player will make an All-NBA team at the end of a season.
   
 __Reason for selecting the topic__: We selected this topic because we are avid sports fans and were curious about the predictability of various end-of-season awards based on a player's end-of-season statistics, demographic data, popularity, and other metrics. 
@@ -16,8 +18,19 @@ __Questions we hope to answer with the data__: asdf
 ## Team Communication Protocols
 
 - Questions and updates are posted in the group Slack channel and all team members' phone numbers are available in case emergency communication is necessary.
-- Merge requests and comments automatically notify Github Master via email.
-- Meetings outside Monday and Wednesday class are coordinated in Slack channel and scheduled as needed.
+- Meetings outside of Monday and Wednesday classes are coordinated in the group Slack channel and are scheduled as needed.
+- Merge requests, comments, and other Github activity are set up to automatically notify the "Github Master" via email.
+
+## Database
+
+- The technologies employed were
+
+## Machine Learning Model
+
+- The technologies employed were
+
+## Dashboard (Not due in Segment #1)
+
 
 
 
