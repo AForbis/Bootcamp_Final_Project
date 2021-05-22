@@ -14,10 +14,10 @@ __Data sources__
 
 __Questions we hope to answer with the data__
 
-- Can our model predict whether or not a player will make an All-NBA team with a 95% accuracy or higher?
-- Which variables had the highest weight in our model?
-- Which variables had the lowest weight in our model?
-- Which variables did we remove when optimizing the model that surprised us the most?
+1) Can our model predict whether or not a player will make an All-NBA team with a 95% accuracy or higher?
+2) Which variables had the highest weight in our model?
+3) Which variables had the lowest weight in our model?
+4) Which variables did we remove when optimizing the model that surprised us the most?
 
 __Team Communication Protocols__
 
@@ -27,22 +27,18 @@ __Team Communication Protocols__
 
 ## Machine Learning Model
 
-- The first segment is all about preparation, so a simple model will cover the first question—the type of machine learning model chosen and why. To get started, create a simple model that isn't concerned with accuracy. Basically, you want your model to take input data and return a label—and that's it!
+- We chose a supervised machine learning model for classification. We chose this type of model because...(complete the rest)
+- Below is our our provisional machine learning model that takes in the data from our provisional database and ouputs the labels for our input data. 
 
-- The technologies employed were..
-- We chose the XXXXXX model because...why...
-- We are training our model...in what ways...with what...
-- Our model's accuracy was....
-- Our model works by...
+(link to code)
+(snapshots of key code snippets)
 
 ## Database
 
-- This means you're using a SQL-based database, including an ERD of the database and a document pointing out how it is integrated into your database and how it works with the code. 
-- When you submit this database for your weekly grade, make sure you're submitting the data used for testing as well. Make sure to upload it to the repository along with the rest of the database-related work.
+- (From the module) This means you're using a SQL-based database, including an ERD of the database and a document pointing out how it is integrated into your database and how it works with the code. When you submit this database for your weekly grade, make sure you're submitting the data used for testing as well. Make sure to upload it to the repository along with the rest of the database-related work.
 
-- The technologies employed were... 
-- sadfasdf
-- ERD diagram
+
+- The ERD diagram below demonstrates how
 
 ![ERD diagram](nba-db-model.png)
 
