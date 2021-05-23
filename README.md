@@ -37,7 +37,9 @@ __Team Communication Protocols__
 
 - The following code demonstrates how our machine learning model is connected to our postgreSQL database.
 
-(insert code snippet from MLM file)
+![SeasonData/db_connection.PNG](SeasonData/db_connection.PNG)  
+![SeasonData/data_pull_1.PNG](SeasonData/data_pull_1.PNG)  
+![SeasonData/data_pull_2.PNG](SeasonData/data_pull_2.PNG)  
 
 - The ERD diagram below demonstrates how our data is structured in our postgreSQL database.
 
