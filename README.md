@@ -33,17 +33,18 @@ __Team Communication Protocols__
 
 ![SeasonData/Center_1.png](SeasonData/Center_1.png)
 
+![SeasonData/Center_1.5.png](SeasonData/Center_1.5.png)
 ![SeasonData/Center_2.png](SeasonData/Center_2.png)  
 
 ![SeasonData/Center_3.png](SeasonData/Center_3.png)  
 
 - Additionally, here is the confusion matrix and accuracy scores for the Guard position:
 
-![SeasonData/Center_3.png](SeasonData/Guard_1.png)  
+![SeasonData/Guard_1.png](SeasonData/Guard_1.png)  
 
 - And here is the confusion matrix and accuracy scores for the Forward position.
 
-![SeasonData/Center_3.png](SeasonData/Forward_1.png)  
+![SeasonData/Forward_1.png](SeasonData/Forward_1.png)  
 
 ## Database
 
