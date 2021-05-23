@@ -37,6 +37,14 @@ __Team Communication Protocols__
 
 ![SeasonData/Center_3.png](SeasonData/Center_3.png)  
 
+- Additionally, here is the confusion matrix for the Guard position:
+
+![SeasonData/Center_3.png](SeasonData/Guard_1.png)  
+
+- And here is the confusion matrix for the Forward position.
+
+![SeasonData/Center_3.png](SeasonData/Forward_1.png)  
+
 ## Database
 
 - The following code demonstrates how our machine learning model is connected to our postgreSQL database.
