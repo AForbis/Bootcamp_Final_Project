@@ -28,10 +28,14 @@ __Team Communication Protocols__
 ## Machine Learning Model
 
 - We chose a supervised machine learning model for classification. We chose this type of model because we wanted a model that would predict discrete outcomes. In this case, we wanted to take a player's end-of-season stats (e.g., points/rebounds/assists per game) and demographic data (e.g., age, height, weight, college) and predict whether the player will or will not make an All-NBA team. In other words, our classification model will try to learn patterns from our end-of-season stats and demographic data that, if successful, can make accurate predictions on if a player will win that award.
-- Below is our our provisional machine learning model that takes in the data from our provisional database and ouputs the labels for our input data. 
+- [Here is our full machine learning model file](final_project_segment.ipynb) that demonstrates how our provisional machine learning model takes in the data from our provisional database and ouputs the labels for our input data. 
+- Below are snippets of code that demonstrate the machine learning model related to the NBA's Center position. 
 
-(link to code)
-(snapshots of key code snippets)
+![SeasonData/Center_1.png](SeasonData/Center_1.png)
+
+![SeasonData/Center_2.png](SeasonData/Center_2.png)  
+
+![SeasonData/Center_3.png](SeasonData/Center_3.png)  
 
 ## Database
 
