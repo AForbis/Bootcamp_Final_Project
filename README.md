@@ -31,9 +31,11 @@ __Team Communication Protocols__
 - [Here is our full machine learning model file](final_project_segment.ipynb) that demonstrates how our provisional machine learning model takes in the data from our provisional database and ouputs the labels for our input data. 
 - Below are snippets of code that demonstrate the machine learning model related to the NBA's Center position. 
 
-![SeasonData/Center_1.PNG](SeasonData/Center_1.PNG)  
-![SeasonData/Center_2.PNG](SeasonData/Center_2.PNG)  
-![SeasonData/Center_3.PNG](SeasonData/Center_3.PNG)  
+![SeasonData/Center_1.png](SeasonData/Center_1.png)
+
+![SeasonData/Center_2.png](SeasonData/Center_2.png)  
+
+![SeasonData/Center_3.png](SeasonData/Center_3.png)  
 
 ## Database
 
