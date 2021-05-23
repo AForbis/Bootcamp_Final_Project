@@ -43,7 +43,7 @@ __Team Communication Protocols__
 
 - The ERD diagram below demonstrates how our data is structured in our postgreSQL database.
 
-![ERD diagram](nba-db-model.png)
+![SeasonData/nba-db-ERD.png](SeasonData/nba-db-ERD.png)  
 
 
 ## Dashboard
