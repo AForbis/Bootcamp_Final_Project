@@ -38,11 +38,11 @@ __Team Communication Protocols__
 
 ![SeasonData/Center_3.png](SeasonData/Center_3.png)  
 
-- Additionally, here is the confusion matrix and accuracy scores for the Guard position:
+- __Additionally, here is the confusion matrix and accuracy scores for the Guard position:__
 
 ![SeasonData/Guard_1.png](SeasonData/Guard_1.png)  
 
-- And here is the confusion matrix and accuracy scores for the Forward position.
+- __And here is the confusion matrix and accuracy scores for the Forward position:__
 
 ![SeasonData/Forward_1.png](SeasonData/Forward_1.png)  
 
