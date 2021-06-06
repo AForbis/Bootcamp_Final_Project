@@ -44,39 +44,33 @@ Quick explanation for[Load test data connection](Database/load_test_data.py)
 
 - We chose a supervised machine learning (ML) model for classification. We chose this type of model because we wanted a model that would predict discrete outcomes. In this case, our model tries to learn patterns from historical end-of-season stats, All-NBA team awards, and demographic data, and, if successful, will be able to make accurate predictions about which players will make one of the All-NBA teams this year based on their own end-of-season stats.
 
- The model starts by reading in the All-NBA and season stats tables from our database. Preprocessing the data involved several steps, some of which were: (a) cutting off data prior to 1979 to account for inconsistent record keeping and the lack of the 3-point line, (b) converting season totals to per game statistics, and (c) normalizing stats for years where the season was less than 82 games. 
+- The model starts by reading in the All-NBA and season stats tables from our database. Preprocessing the data involved several steps, some of which were: (a) cutting off data prior to 1979 to account for inconsistent record keeping and the lack of the 3-point line, (b) converting season totals to per game statistics, and (c) normalizing stats for years where the season was less than 82 games. 
  
- Preliminary feature engineering, selection, and decision-making involved...
+- Preliminary feature engineering, selection, and decision-making involved...
 
-Description of how data was split into testing and training...
+- Description of how data was split into testing and training...
 
-Explanation of model choice, benefits, limiations...
+- Explanation of model choice, benefits, limitations...
 
 
-
-Top 5 Features by Position
+### Top 5 Features by Position
 
 ![Top 5 Features](Dashboard/top5.png)
 
 ### Model predictions
 
-Centers
+__Centers__
 
 ![Centers Predictions](Dashboard/predict_c.png)
 
-Guards
+__Guards__
 
 ![Guards Predictions](Dashboard/predict_g.png)
 
-Forwards
+__Forwards__
 
 ![Forwards Predictions](Dashboard/predict_f.png)
 
 ## Dashboard Blueprint
 
 ![Dashboard/DB_blueprint.png](Dashboard/DB_blueprint.png)
-
-
-
-
-
