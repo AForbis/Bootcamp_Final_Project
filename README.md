@@ -32,11 +32,10 @@ __Team Communication Protocols__
 
 ![SeasonData/nba-db-ERD.png](SeasonData/nba-db-ERD.png)  
 
-- The ERD diagram above demonstrates how the data is structured in our postgreSQL database. [Here you can see](final_project_segment-oversampling-predictions-treeVisuals.ipynb) how our  model is connected to our postgreSQL database, as well as how the model reads in the All-NBA and season stats tables. Additionally, 
+- The ERD diagram above demonstrates how the data is structured in our postgreSQL database. [Here you can see](final_project_segment-oversampling-predictions-treeVisuals.ipynb) how our  model is connected to our postgreSQL database, as well as how the model reads in the All-NBA and season stats tables. We also [scraped the 2020-2021 season data from Basketball Reference and connected the results](Database/load_season_data.py) to our season stats database. Finally, we [scraped and connected the 2020-2021 results to a different table](Database/load_test_data.py) for testing purposes.
 
-Evidence of join?
-Quick explanation for [Load season data connection](Database/load_season_data.py)
-Quick explanation for[Load test data connection](Database/load_test_data.py)
+
+XXXEvidence of join?XXX
 
 ## Machine Learning Model
 
@@ -59,15 +58,15 @@ Quick explanation for[Load test data connection](Database/load_test_data.py)
 
 ### Model predictions
 
-__Centers__
+__1. Centers__
 
 ![Centers Predictions](Dashboard/predict_c.png)
 
-__Guards__
+__2. Guards__
 
 ![Guards Predictions](Dashboard/predict_g.png)
 
-__Forwards__
+__3. Forwards__
 
 ![Forwards Predictions](Dashboard/predict_f.png)
 
