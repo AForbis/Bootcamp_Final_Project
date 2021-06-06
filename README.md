@@ -61,10 +61,7 @@ __Team Communication Protocols__
 
 ## Dashboard
 
-- TBD as this section is not due in segment #1.
-
-
-
+[Dashboard/DB_blueprint.png](Dashboard/DB_blueprint.png)
 
 
 
