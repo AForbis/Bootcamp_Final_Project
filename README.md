@@ -4,13 +4,14 @@
 
 __Topic Selection__
 
-- We set out to determine if we could build a machine learning model that takes in an NBA player's end-of-season statistics and reliably predicts whether or not that player will make an All-NBA team at the end of a season. We selected this topic for a few different reasons. First and foremost, we are all avid sports fans who are curious about the predictability of various end-of-season awards (e.g., MVP, offensive player of year, rookie of the year, etc.). As you ride each season’s ups and downs with your favorite players and teams, it’s extremely rewarding when your favorite player receives one of these prestigious awards and cements their greatness in the history books. Our second reason for selecting this topic is the potential for monetizing it. There are numerous bets available for all sorts of individual awards each season across all sports. Optimizing this model would be a effective and potentially lucrative learning experience on how to give your betting an edge.
+- We set out to determine if we could build a machine learning model that takes in an NBA player's end-of-season statistics and reliably predicts whether or not that player will make one of the three All-NBA teams at the end of a season. We selected this topic for a few different reasons. First and foremost, we are all avid sports fans who are curious about the predictability of various end-of-season awards (e.g., MVP, offensive player of year, rookie of the year, etc.). As you ride each season’s ups and downs with your favorite players and teams, it’s extremely rewarding when your favorite player receives one of these prestigious awards and cements their greatness in the history books. Our second reason for selecting this topic is the potential for monetizing it. There are numerous bets available for all sorts of individual awards each season across all sports. Optimizing this model would be a effective and potentially lucrative learning experience on how to give your betting an edge.
   
 __Data sources__
 
-- [Season_Stats.csv from Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats) - This dataset contains a variety of players' game statistics like points, rebounds, assists, PER, etc.
-- [All-NBA data.csv from Basketball Reference](https://www.basketball-reference.com/awards/all_league.html) - This dataset contains the list of 1st, 2nd, and 3rd All-NBA team awards from 1946-2020.
-- [player_data.csv from Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats) - This dataset contains the players' demographic data (e.g., start/end of career, birthdate, height, weight, college).
+- [NBA Players' Season Stats from Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats) - This dataset contains a variety of players' game statistics like points, rebounds, assists, PER, etc.
+- [All-NBA team data from Basketball Reference](https://www.basketball-reference.com/awards/all_league.html) - This dataset contains the list of 1st, 2nd, and 3rd All-NBA team awards from 1946-2020.
+- [NBA Players' demographic data from Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats) - This dataset contains the players' demographic data (e.g., start/end of career, birthdate, height, weight, college).
+- [Glossary of Basketball Statistics](Stat_Glossary.xlsx)
 
 __Questions we hope to answer with the data__
 
@@ -25,26 +26,10 @@ __Team Communication Protocols__
 - Meetings outside of Monday and Wednesday classes are coordinated in the group Slack channel and are scheduled as needed.
 - Merge requests, comments, and other Github activity are set up to automatically notify the "Github Master" via email.
 
-## Machine Learning Model
+## Project Outline
 
-- We chose a supervised machine learning model for classification. We chose this type of model because we wanted a model that would predict discrete outcomes. In this case, we wanted to take a player's end-of-season stats (e.g., points/rebounds/assists per game) and demographic data (e.g., age, height, weight, college) and predict whether the player will or will not make an All-NBA team. In other words, our classification model will try to learn patterns from our end-of-season stats and demographic data that, if successful, can make accurate predictions on if a player will win that award.
-- [Here is our full machine learning model file](final_project_segment.ipynb) that demonstrates how our provisional machine learning model takes in the data from our provisional database and ouputs the labels for our input data. 
-- Below are snippets of code that demonstrate the machine learning model related to the NBA's Center position. 
+XXXXX  Project Outline Image XXXXXX
 
-![SeasonData/Center_1.png](SeasonData/Center_1.png)
-
-![SeasonData/Center_1.5.png](SeasonData/Center_1.5.png)
-![SeasonData/Center_2.png](SeasonData/Center_2.png)  
-
-![SeasonData/Center_3.png](SeasonData/Center_3.png)  
-
-- __Additionally, here is the confusion matrix and accuracy scores for the Guard position:__
-
-![SeasonData/Guard_1.png](SeasonData/Guard_1.png)  
-
-- __And here is the confusion matrix and accuracy scores for the Forward position:__
-
-![SeasonData/Forward_1.png](SeasonData/Forward_1.png)  
 
 ## Database
 
@@ -54,14 +39,30 @@ __Team Communication Protocols__
 ![SeasonData/data_pull_1.PNG](SeasonData/data_pull_1.PNG)  
 ![SeasonData/data_pull_2.PNG](SeasonData/data_pull_2.PNG)  
 
-- The ERD diagram below demonstrates how our data is structured in our postgreSQL database.
+- The ERD diagram below demonstrates how our data is structured in our postgreSQL database. (Update?)
 
 ![SeasonData/nba-db-ERD.png](SeasonData/nba-db-ERD.png)  
 
+## Machine Learning Model
+
+- [Click here to review our complete ML model.](final_project_segment-oversampling-predictions-treeVisuals.ipynb)
+
+- We chose a supervised machine learning (ML) model for classification. We chose this type of model because we wanted a model that would predict discrete outcomes. In this case, we wanted the model to use historical All-NBA and player statistics to  and All-NBA datatake a player's end-of-season stats (e.g., points/rebounds/assists per game) and demographic data (e.g., age, height, weight, college) and predict whether that player will make one of the three All-NBA teams. In other words, our model will try to learn patterns from our end-of-season stats, demographic data, and past All-NBA team data that, if successful, will be able to make accurate predictions about which players will make the team this year.
+
+ The model begins by reading in the All-NBA and season stats tables from our database. Preprocessing the data involved several steps, some of which were: (a) cutting off data prior to 1978 to account for inconsistent record keeping and the lack of the 3-point line, (b) converting season totals to per game statistics, and (c) normalizing stats for years where the season was less than 82 games. Preliminary feature engineering and selection involved...
+
+
+
+
+- Below are snippets of code that demonstrate the machine learning model related to the NBA's Center position. (SeasonData/CenterPNGs...)
+
+XXX Insert table of Top 5 features by Position XXX
+
+XXX Insert snapshot of predictions by position XXX
 
 ## Dashboard
 
-[Dashboard/DB_blueprint.png](Dashboard/DB_blueprint.png)
+![Dashboard/DB_blueprint.png](Dashboard/DB_blueprint.png)
 
 
 
