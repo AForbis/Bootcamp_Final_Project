@@ -34,8 +34,8 @@ __Team Communication Protocols__
 
 - The ERD diagram above demonstrates how the data is structured in our postgreSQL database. [Here you can see](final_project_segment-oversampling-predictions-treeVisuals.ipynb) how our  model is connected to our postgreSQL database, as well as how the model reads in the All-NBA and season stats tables. We also [scraped the 2020-2021 season data from Basketball Reference and connected the results](Database/load_season_data.py) to our season stats database. Finally, we [scraped and connected the 2020-2021 results to a different table](Database/load_test_data.py) for testing purposes.
 
-
-XXXEvidence of join?XXX
+- A materialized view called allnba_stats was created to the join the All NBA players with their associated season stats. This will give an overview of the players' season that got them on an All NBA team.
+![SeasonData/table_join.png](SeasonData/table_join.png)  
 
 ## Machine Learning Model
 
