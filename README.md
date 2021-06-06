@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+![](Dashboard/outline.png)
+
 __Topic Selection__
 
 - We set out to determine if we could build a machine learning model that takes in an NBA player's end-of-season statistics and reliably predicts whether or not that player will make one of the three All-NBA teams at the end of a season. We selected this topic for a few different reasons. First and foremost, we are all avid sports fans who are curious about the predictability of various end-of-season awards (e.g., MVP, offensive player of year, rookie of the year, etc.). As you ride each season’s ups and downs with your favorite players and teams, it’s extremely rewarding when your favorite player receives one of these prestigious awards and cements their greatness in the history books. Our second reason for selecting this topic is the potential for monetizing it. There are numerous bets available for all sorts of individual awards each season across all sports. Optimizing this model would be a effective and potentially lucrative learning experience on how to give your betting an edge.
@@ -25,11 +27,6 @@ __Team Communication Protocols__
 - Questions and updates are posted in the group Slack channel and all team members' phone numbers are available in case emergency communication is necessary.
 - Meetings outside of Monday and Wednesday classes are coordinated in the group Slack channel and are scheduled as needed.
 - Merge requests, comments, and other Github activity are set up to automatically notify the "Github Master" via email.
-
-## Project Outline
-
-XXXXX  Project Outline Image XXXXXX
-
 
 ## Database
 
@@ -59,15 +56,21 @@ Explanation of model choice, benefits, limiations...
 
 Top 5 Features by Position
 
-- ![Top 5 Features](Dashboard/top5.png)
+![Top 5 Features](Dashboard/top5.png)
 
-Model predictions
+### Model predictions
 
-- ![Centers Predictions](Dashboard/predict_c.png)
+Centers
 
-- ![Guards Predictions](Dashboard/predict_g.png)
+![Centers Predictions](Dashboard/predict_c.png)
 
-- ![Forwards Predictions](Dashboard/predict_f.png)
+Guards
+
+![Guards Predictions](Dashboard/predict_g.png)
+
+Forwards
+
+![Forwards Predictions](Dashboard/predict_f.png)
 
 ## Dashboard Blueprint
 
