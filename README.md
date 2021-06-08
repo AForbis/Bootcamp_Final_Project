@@ -68,5 +68,6 @@ __3. Forwards__
 ![Forwards Predictions](Dashboard/predict_f.png)
 
 ## Dashboard Blueprint
+- [Link to Google Slides Presentation](https://docs.google.com/presentation/d/18zYVU8uw6cYW1FHn6itQ44x_ZHNLf1JlM96HL8Foo7I/edit#slide=id.p) 
 
 ![Dashboard/DB_blueprint.png](Dashboard/DB_blueprint.png)
