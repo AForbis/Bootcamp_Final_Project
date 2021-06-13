@@ -18,15 +18,9 @@ __Data sources__
 __Questions we hope to answer with the data__
 
 1) Can our model predict whether or not a player will make an All-NBA team with a 95% accuracy or higher?
-2) Which variables had the highest weight in our model?
-3) Which variables had the lowest weight in our model?
-4) Which variables did we remove when optimizing the model that surprised us the most?
 
-__Team Communication Protocols__
+2) What were the top 5 variables by weight in our model?
 
-- Questions and updates are posted in the group Slack channel and all team members' phone numbers are available in case emergency communication is necessary.
-- Meetings outside of Monday and Wednesday classes are coordinated in the group Slack channel and are scheduled as needed.
-- Merge requests, comments, and other Github activity are set up to automatically notify the "Github Master" via email.
 
 ## Database
 
@@ -50,6 +44,7 @@ __Team Communication Protocols__
 ### Final accuracy scores and decision tree depth/nodes by model
 
 ![Accuracy&DecisionTree](Dashboard/acc_dt.png)
+
 ### Top 5 Features by Position
 
 ![Top 5 Features](Dashboard/top5.png)
@@ -69,6 +64,7 @@ __3. Forwards__
 ![Forwards Predictions](Dashboard/predict_f.png)
 
 ## Dashboard Blueprint
+
 - [Link to Google Slides Presentation](https://docs.google.com/presentation/d/18zYVU8uw6cYW1FHn6itQ44x_ZHNLf1JlM96HL8Foo7I/edit#slide=id.p) 
 
 ![Dashboard/DB_blueprint.png](Dashboard/DB_blueprint.png)
