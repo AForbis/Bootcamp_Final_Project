@@ -47,16 +47,14 @@ __Team Communication Protocols__
  
 - Because there are 3 All-NBA teams, each made up of one center, two forwards, and two guards, we decided to develop a ML model for each position. For each position (C, F, G), we split the data into training and testing sets, created a standard scalar, fit the testing and training sets to the standard scalar, and then scaled each training and testing set. From there, we used a decision tree classifier to fit our data, make predictions using the testing data, and calculate a confusion matrix and accuracy score. After several tests with different types of models, we decided to proceed with a random oversampling model, as its precision, recall, and accuracy was superior to our attempts with [undersampling](ML_testing/final_project_segment-undersampling.ipynb), [SMOTE](ML_testing/final_project_segment-SMOTE.ipynb), and [SMOTEENN](ML_testing/final_project_segment-SMOTEENN.ipynb). To optimize the model and reduce the risk of overfitting, we eliminated features that yielded 0% for all positions (WS/48, STL_pct, APG, GS). The only changes made between segment 2 and segment 3 were the recalculatiion of statistics for players traded within the season. 
 
-- Below are the final accuracy scores and decision tree depth/nodes for the center, guard, and forward models:
+### Final accuracy scores and decision tree depth/nodes by model
 
-
-- Below are the top 5 weighted features by position and the final model predictions by position.
-
+![]()
 ### Top 5 Features by Position
 
 ![Top 5 Features](Dashboard/top5.png)
 
-### Model predictions
+### Final Model Predictions by Position
 
 __1. Centers__
 
