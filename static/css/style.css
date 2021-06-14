@@ -1,0 +1,22 @@
+body {
+    background-image: url('../img/court_floor.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #f7f7f7;
+   }
+
+.jumbotron {
+    background-image: url("../img/title3.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    }
+
+h1 {
+        color: #f7f7f7;
+        font-size: 56px;
+        -webkit-text-stroke: 1px #282828;
+        text-shadow: 0px 4px 4px #282828;
+        font-family: 'Helvetica', sans-serif;
+        font-style: italic;
+        font-weight: bold
+    }
