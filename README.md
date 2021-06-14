@@ -65,9 +65,9 @@ __3. Forwards__
 
 ## Dashboard Blueprint
 
-- [Link to Dashboard Blueprint](https://docs.google.com/presentation/d/18zYVU8uw6cYW1FHn6itQ44x_ZHNLf1JlM96HL8Foo7I/edit#slide=id.p) 
+- Click to review the [app.py file for the flask app](app.py), [html files](main/templates), or the [css file](main/static/css.style.css) for the dashboard.
+- Click here to review the funcionality of the flask app.
 
-![Dashboard/DB_blueprint.png](Dashboard/DB_blueprint.png)
 
 ## Google Slides Presentation
 
