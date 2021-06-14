@@ -66,7 +66,7 @@ __3. Forwards__
 ## Dashboard Blueprint
 
 - [Click here to review the funcionality of the flask app](DashScreencap.mov).
-- Click to review the [app.py file for the flask app](app.py), [html files](templates), or the [css file](static/css.style.css) for the dashboard.
+- Click to review the [flask app file](app.py), [html files](templates), or the [css file](static/css.style.css) used to run the dashboard.
 
 
 
