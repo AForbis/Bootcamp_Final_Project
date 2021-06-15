@@ -301,11 +301,10 @@ def model():
                 season_df[stat] = season_df[stat] * 82/num_games
             return season_df
 
-        if input_year == 2021: testing_stats = scale_stats(testing_stats,72)
-        if input_year == 2020: testing_stats = scale_stats(testing_stats,72)
-        elif input_year == 1999: testing_stats = scale_stats(testing_stats,50)
-        elif input_year == 2012: testing_stats = scale_stats(testing_stats,66)
-        else: testing_stats = scale_stats(testing_stats,82)
+        if input_year == '2021':
+            testing_stats = scale_stats(testing_stats,72)
+        else:
+            testing_stats = scale_stats(testing_stats,82)
 
         centers_stats_2021 = testing_stats
         forwards_stats_2021 = testing_stats
